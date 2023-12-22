@@ -1,4 +1,4 @@
-## vscode
+# vscode
 
 ### theme
 - Japanese Language Pack for Visual Studio Code
