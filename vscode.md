@@ -15,10 +15,6 @@
 
 - zenkaku
 
-- Better Comments
-
-- Error Lens
-
 ### git
 
 - Git Graph
@@ -41,5 +37,6 @@
 
 - Terraform
 
+- Markdown Preview Mermaid Support
 
 
